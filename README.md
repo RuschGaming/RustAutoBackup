@@ -46,8 +46,7 @@ set DestinationPath=E:\Backups
 
 
 # Download links
-- Rust Automated Backup script Standalone.bat
-- Rust Automated Backup script for Task Scheduler.bat
+- [Release v1.0](https://github.com/RuschGaming/RustAutoBackup/releases)
 
 
 # To do's
