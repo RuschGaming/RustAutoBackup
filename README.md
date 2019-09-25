@@ -33,7 +33,8 @@ set DestinationPath=E:\Backups
 ### Setting up Standalone version
 
 Rust Automated Backup script for Task Scheduler only runs once everytime it is requested via the Task Scheduler. 
-Heres a how to add a schedule: https://www.digitalcitizen.life/how-create-task-basic-task-wizard
+
+Here's how to add a schedule: https://www.digitalcitizen.life/how-create-task-basic-task-wizard
 
 #### Source & Destination path
 At line 52 and 54 you set your path for the server root directory and a destination path for your backups.
