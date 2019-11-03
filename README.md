@@ -1,7 +1,7 @@
 # RustAutoBackup
 Backup script for Running Rust Server via RSM
 
-RSM
+RSM FMX
 https://rustservermanager.com/
 
 
